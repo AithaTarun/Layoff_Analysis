@@ -1,0 +1,109 @@
+Company,Total No of Employees,No of Employees laid off,% of Employees Laid Off,Reason For Layoff,Sector
+Amazon,100000,1000,1%,Slowdown in growth of AWS revenues and the macroeconomic conditions,Ecommerce
+Meta,500,30,6%,Cost Cutting,Software
+Microsoft,18000,10000,56%,Macroeconomic conditions and changing customer priorities,Software
+Wipro,240000,120,0%,Realign business needs,Software
+Google,50000,450,1%,To allow the company to continue investing in key priorities,Software
+Cognizant,355300,3500,1%,Cost Cutting,Software
+Infosys,335186,15000,4%,Cost Cutting,Software
+IBM,288300,3900,1%,Failed to meet its cash targets,Software
+Byjus,50000,2500,5%,Restructuring,Edtech
+Ola,3000,200,7%,Restructuring,Consumer Services
+Unacademy,6000,1500,25%,Cost Cutting,Edtech
+Blinkit,32000,1600,5%,Cost Cutting,Consumer Services
+WhiteHat Jr,6000,1200,20%,Restructuring,Edtech
+Vedantu,5900,1121,19%,Financial Constraints,Edtech
+Meesho,2000,700,35%,Restructuring,Ecommerce
+Mfine,800,600,75%,Financial Constraints,Healthtech
+Oyo,3700,592,16%,Restructuring,Consumer Services
+Cars24,9000,630,7%,"Cost Cutting, Automation ",Ecommerce
+Udaan,3000,350,12%,Cost Cutting,Ecommerce
+Gomechanic,714,500,70%,Cost Cutting,Consumer Services
+ShareChat,2500,500,20%,Restructuring,Media and Entertainment
+1k Kirana,1052,421,40%,Restructuring,Ecommerce
+Skill-Lync,2000,400,20%,Adverse Economic Conditions,Edtech
+Dunzo,1180,389,33%,Restructuring,Consumer Services
+Swiggy,8300,415,5%,"Restructuring, Performance related",Consumer Services
+Toppr,2483,348,14%,Restructuring,Edtech
+Phablecare,710,348,49%,Cost Cutting,Healthtech
+FarEye,750,338,45%,Adverse Economic Conditions,Logistics
+Innovaccer,1500,330,22%,Adverse Economic Conditions,Healthtech
+Camp K12,430,301,70%,Cost Cutting,Edtech
+Trell,600,300,50%,"Cost Cutting, Runway Extension",Ecommerce
+Extramarks,3500,315,9%,Restructuring,Edtech
+FrontRow,325,276,85%,Cost Cutting,Edtech
+Rupeek,1249,250,20%,Cost Cutting,Fintech
+Hirect,500,200,40%,Restructuring,Enterprisetech
+MediBuddy,2400,192,8%,Restructuring,Healthtech
+MyGate,600,198,33%,Cost Cutting,Consumer Services
+CityMall,800,192,24%,"Cost Cutting, Restructuring",Consumer Services
+Practically,300,110,37%,Restructuring,Edtech
+Clear,950,190,20%,Cost Cutting,Fintech
+Euler,500,50,10%,Restructuring,Transport tech
+Furlenco,530,180,34%,"Automation, Cost Cutting",Ecommerce
+Cogito,1500,180,12%,Client Ramped Down Project,Enterprisetech
+GoodWorker,190,171,90%,Restructuring,Enterprisetech
+Crejo.Fun,170,170,100%,Company Shut Down,Edtech
+LEAD,2200,154,7%,Performance related,Edtech
+Hubilo,375,161,43%,Restructuring,Enterprisetech
+Happay[CRED],457,160,35%,Restructuring,Fintech
+Lido,725,155,21%,Financial Constraints,Edtech
+Fraazo,700,147,21%,Cost Cutting,Consumer Services
+HealthifyMe,750,150,20%,Restructuring,Healthtech
+PayU,2500,150,6%,Restructuring,Fintech
+VerSe,3000,150,5%,Restructuring,Consumer Services
+Yellow.ai,1000,150,15%,Restructuring,Enterprisetech
+Yaari,250,40,16%,Financial Constraints,Ecommerce
+Chargebee,1420,142,10%,Adverse Economic Conditions,Enterprisetech
+Yojak,280,140,50%,Restructuring,Ecommerce
+SirionaLabs,900,126,14%,Restructuring,Enterprisetech
+upGrad,333,120,36%,Restructuring,Edtech
+Simpl,646,123,19%,Cost Cutting,Fintech
+Skit.ai,335,114,34%,Restructuring,Enterprisetech
+Teachmint,900,117,13%,Restructuring,Edtech
+DealSHare,1500,105,7%,Cost Cutting,Ecommerce
+Jeet11,100,100,100%,Company Shut Down,Consumer Services
+Zomato,3300,99,3%,Performance related,Consumer Services
+Polygon,500,100,20%,Restructuring,Fintech
+LivSpace,5000,100,2%,Cost Cutting,Consumer Services
+FanClash,133,100,75%,Restructuring,Media and Entertainment
+ZestMoney,450,90,20%,Restructuring,Fintech
+Cuemath,2570,103,4%,Restructuring,Edtech
+Udayy,100,100,100%,Company Shut Down,Edtech
+MPL,1000,100,10%,Restructuring,Media and Entertainment
+Freshworks,4000,80,2%,Restructuring,Enterprisetech
+Koo,350,105,30%,Restructuring,Consumer Services
+Exotel,200,32,16%,Performance related,Enterprisetech
+Nova Benefits,200,80,40%,Restructuring,Fintech
+Aqgromalin,270,81,30%,Investors Backout,Agritech
+Cashfree Payments,615,80,13%,Restructuring,Fintech
+Drip Capital,400,80,20%,Restructuring,Fintech
+Dukaan,250,80,32%,Restructuring,Enterprisetech
+Harappa Education,180,72,40%,Business Model Change,Edtech
+InMobi,2600,78,3%,Performance related,Enterprisetech
+WazirX,150,60,40%,Adverse Economic Conditions,Fintech
+BlueStacks,600,60,10%,Restructuring,Enterprisetech
+CoinDCX,642,51,8%,Restructuring,Fintech
+Rebel Foods,2521,50,2%,Performance related,Consumer Services
+Pocket Aces,200,50,25%,Restructuring,Media and Entertainment
+Breathe Well-being,167,50,30%,Cost Cutting,Healthtech
+OPEN,677,47,7%,Performance related,Fintech
+Prackto,1600,48,3%,Performance related,Healthtech
+Moglix,1300,39,3%,Performance related,Ecommerce
+PharmEasy,1000,40,4%,Cost Cutting,Healthtech
+OKCredit,150,41,27%,Business Model Change,Fintech
+Oye Rickshaw,200,40,20%,Cost Cutting,Cleantech
+Relevel[Unacademy],200,40,20%,Business Model Change,Edtech
+Bounce,500,20,4%,Restructuring,Consumer Services
+Euditus,2300,46,2%,Restructuring,Edtech
+Plum Insurance,360,36,10%,Restructuring,Fintech
+Fittr,270,30,11%,Restructuring,Healthtech
+Vauld,97,29,30%,Cost Cutting,Fintech
+UpScalio,170,26,15%,Performance related,Ecommerce
+Invact Metaversity,30,20,67%,Founder Conflict,Edtech
+Toothsi,300,25,8%,Cost Cutting,Healthtech
+Yellow Class,125,19,15%,Restructuring,Edtech
+HackerEarth,190,17,9%,Adverse Economic Conditions,Enterprisetech
+FamPay,399,12,3%,Restructuring,Fintech
+Smallcase,232,76,33%,Restructuring,Fintech
+,, ,#VALUE!,,
